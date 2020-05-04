@@ -3,9 +3,8 @@ GAN to generate new faces using Keras
 
 ## Features
 * Generate faces with arbitrary qualities
-* Example:
 ![alt text](sample.png)
-* Faces in bottom half are generated with same qualities as real faces in to half
+* Faces in bottom half are generated with same qualities as real faces in top half
 
 ## Requirements
 * Tensorflow 1.x
